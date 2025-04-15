@@ -1,0 +1,12 @@
+{
+  "name": "lego-world-kiosk",
+  "version": "1.0.0",
+  "description": "Toetsweek Interface2 Lego",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0"
+  }
+} 
